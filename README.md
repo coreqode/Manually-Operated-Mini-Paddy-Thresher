@@ -13,4 +13,4 @@ This entire setup is very compact. So just by human effort one can use this thre
 without depending on external factors.
 
 
-![](Final fabricated model.jpeg)
+![](https://github.com/coreqode/Manually-Operated-Mini-Paddy-Thresher/blob/master/Final%20fabricated%20model.jpeg)
