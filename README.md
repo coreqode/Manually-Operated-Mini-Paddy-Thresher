@@ -11,3 +11,6 @@ contains a cylinder with spokes on it which is connected to shaft and a handle. 
 separated by rubbing and impact action between spokes and concave.
 This entire setup is very compact. So just by human effort one can use this thresher effectively
 without depending on external factors.
+
+
+[](Final fabricated model.jpeg)
