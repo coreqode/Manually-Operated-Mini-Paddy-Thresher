@@ -13,4 +13,4 @@ This entire setup is very compact. So just by human effort one can use this thre
 without depending on external factors.
 
 
-[](Final fabricated model.jpeg)
+![](Final fabricated model.jpeg)
