@@ -1,4 +1,4 @@
-# Manually-Operated-Mini-Paddy-Thresher
+# Manually Operated Mini Paddy Thresher
 <p align="center">
   <img src="https://github.com/coreqode/Manually-Operated-Mini-Paddy-Thresher/blob/master/Final%20fabricated%20model.jpeg" align="center" width="40%">
  </p>
