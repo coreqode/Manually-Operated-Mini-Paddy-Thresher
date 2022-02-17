@@ -1,4 +1,5 @@
 # Manually-Operated-Mini-Paddy-Thresher
+<img src="https://github.com/coreqode/Manually-Operated-Mini-Paddy-Thresher/blob/master/Final%20fabricated%20model.jpeg" align="center" width="30%">
 India accounts of more than 70% of its population involved in agriculture. Hence it is obvious
 for big companies and government organization to focus on big machines which can thresh in
 large amount. But in hilly areas where average farm size is less than 0.4 hectare, and it limit the
@@ -13,4 +14,7 @@ This entire setup is very compact. So just by human effort one can use this thre
 without depending on external factors.
 
 
-<img src="https://github.com/coreqode/Manually-Operated-Mini-Paddy-Thresher/blob/master/Final%20fabricated%20model.jpeg" align="center" width="50%">
+# CAD model in SolidWorks
+<img src="https://github.com/coreqode/Manually-Operated-Mini-Paddy-Thresher/blob/master/different%20view.png" align="center" width="50%">
+
+
