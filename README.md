@@ -1,5 +1,7 @@
 # Manually-Operated-Mini-Paddy-Thresher
-<img src="https://github.com/coreqode/Manually-Operated-Mini-Paddy-Thresher/blob/master/Final%20fabricated%20model.jpeg" align="center" width="40%">
+<p align="center">
+  <img src="https://github.com/coreqode/Manually-Operated-Mini-Paddy-Thresher/blob/master/Final%20fabricated%20model.jpeg" align="center" width="40%">
+ </p>
 India accounts of more than 70% of its population involved in agriculture. Hence it is obvious
 for big companies and government organization to focus on big machines which can thresh in
 large amount. But in hilly areas where average farm size is less than 0.4 hectare, and it limit the
